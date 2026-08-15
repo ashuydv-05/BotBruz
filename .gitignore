@@ -1,0 +1,13 @@
+.DS_Store
+*.tmp
+
+*.bak
+.vscode/
+*.hex
+
+*.elf
+
+*.eep
+
+*.map
+
